@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.stopWatch_Screen {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 4%;
+}
+
+.stopWatch_image {
+  width: 60%;
+  height: 60%;
+}
+
+.stopWatch_Timer {
+  padding-top: 10%;
+  padding-left: 10%;
+}
+
+b {
+  font-size: 60px;
+  color: black;
+}
